@@ -24,3 +24,6 @@ file
 ## How to contribute 
 
 Some more changes
+
+## Copyright 
+2026 Git.Training 
