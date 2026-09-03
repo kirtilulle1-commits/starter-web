@@ -24,6 +24,7 @@ file
 ## How to contribute 
 
 Some more changes
+Please fork this repository and then issue pulle request 
 
 ## Copyright 
 2026 Git.Training 
