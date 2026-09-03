@@ -27,3 +27,5 @@ Some more changes
 
 ## Copyright 
 2026 Git.Training 
+
+Trying to understand Git merging 
