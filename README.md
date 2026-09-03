@@ -17,6 +17,10 @@ demos.
 
 ## Deployment 
 
-Sample website with plenty of files for demos
+This is a somple web project, Deployment
+can be on any web server or even local 
+file
 
 ## How to contribute 
+
+Some more changes
