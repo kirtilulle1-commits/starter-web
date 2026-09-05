@@ -28,6 +28,6 @@ Some more changes
 Please fork this repository and then issue pulle request 
 
 ## Copyright 
-2026 Git.Training 
+2026 Git.Training, All rights reserved  
 
 Trying to understand Git merging 
